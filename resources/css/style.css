@@ -1,0 +1,31 @@
+*{
+  background-color: #AB987A;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #0F1626;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #0F1626;
+}
+
+
+h3 {
+  font-size: 1.3rem;
+  color: #0F1626;
+}
+
+a {
+  background-color: #FF533D;
+  color: #F5F5F5;
+  text-decoration: none;
+  padding: 20px;
+}
+
+p {
+
+}
